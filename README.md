@@ -22,7 +22,7 @@ Before running the bot, you need to install Python 3.6+ and set up a Telegram AP
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/TeleTagVerifBot.git
+   git clone https://github.com/egwyl666/TeleTagVerifBot.git
    cd TeleTagVerifBot
     ```
 
